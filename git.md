@@ -1,1 +1,2 @@
 git fetchの確認
+git archiveも確認しないとな
